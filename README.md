@@ -26,7 +26,9 @@ Model was trained using housing data and saved as a `.pkl` file.
 To see a live demo, run the following command in your terminal:
 
 ```bash
-streamlit run app.py🌐 Deploying
+streamlit run app.py
+
+🌐 Deploying
 You can deploy this app for free using Streamlit Cloud.
 Just connect your GitHub repo and deploy app.py.
 
